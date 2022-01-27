@@ -17,7 +17,6 @@
   
   <div>
     <a href="https://www.linkedin.com/in/enrico-sobrinho-greg%C3%B3rio-85831b1a4/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"></a>
-    <a href="mailto:enricogregorio5@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" height="34"></a>
     <a href="https://www.instagram.com/enrico.s.g/" target="_blank"><img src="https://user-images.githubusercontent.com/83100249/133948771-ec18ac1d-8f26-44c2-8bfe-48c9ed512530.png" alt="Instagram" height="30"></a>
     <a href="https://twitter.com/enricosg_/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30"></a>
   </div>
