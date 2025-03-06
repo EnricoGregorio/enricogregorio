@@ -16,5 +16,5 @@
 ### Minhas redes sociais
   
   <div>
-    <a href="https://www.linkedin.com/in/enrico-sobrinho-greg%C3%B3rio-85831b1a4/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"></a>
+    <a href="https://www.linkedin.com/in/esg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"></a>
   </div>
