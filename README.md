@@ -56,4 +56,4 @@ Organizo alguns dos meus estudos no seguinte repositório: [Estudos](https://git
 
 ### 👨‍💻 Linguagens de Pogramação e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,python,javascript,html,css,mysql,flask)](https://skillicons.dev)
