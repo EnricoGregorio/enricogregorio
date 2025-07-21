@@ -32,8 +32,6 @@ Acredito que a melhor forma de aprender é colocando a mão na massa, por isso b
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/enricogregorio/enricogregorio/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   
   [![Enrico Sobrinho Gregorio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enricogregorio&bg_color=242120&color=e4e3e1&line=F42C73&point=e4e3e1&area=true&area_color=781638&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
