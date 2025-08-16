@@ -4,7 +4,7 @@
 
 Atualmente atuo como **Analista NOC júnior** e apaixonado por tecnologia. Meus estudos e experiências me permitiram desenvolver habilidades em manutenção de computadores e em programação. Meu objetivo é desenvolver soluções inovadoras em tecnologia, transformando meus aprendizados em projetos reais e úteis.
 
-<img src="https://avatars.githubusercontent.com/u/83100249?v=4" height="150" align="right" style="margin-bottom:10px;margin-left: 20px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)" />
+<img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-6cd0-61f4-a916-7ca6b475ca4b/raw?se=2025-08-16T21%3A40%3A16Z&sp=r&sv=2024-08-04&sr=b&scid=19f6b079-e8af-59e3-b1b1-363ccdb72605&skoid=864daabb-d06a-46b3-a747-d35075313a83&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T00%3A27%3A17Z&ske=2025-08-17T00%3A27%3A17Z&sks=b&skv=2024-08-04&sig=/xvQpGogVBj%2BzFjwWDIDCXWLfhdTwUdj9ENRnrfmF7g%3D" height="150" align="right" style="margin-bottom:10px;margin-left: 20px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)" />
 
 - 🖥️ Técnico em Informática pelo <abbr title="Instituto Federal de Educação, Ciência e Tecnologia do Pará">IFPA</abbr> - Campus Paragominas;
 - 🎓 Graduando em Bacharelado de Sistemas de Informação na <abbr title="Universidade Federal Rural da Amazônia">UFRA</abbr>;
