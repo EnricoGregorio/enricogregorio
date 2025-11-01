@@ -8,13 +8,13 @@ Atualmente atuo como **Analista NOC júnior** e apaixonado por tecnologia. Meus 
 
 - 🖥️ Técnico em Informática pelo <abbr title="Instituto Federal de Educação, Ciência e Tecnologia do Pará">IFPA</abbr> - Campus Paragominas;
 - 🎓 Graduando em Bacharelado de Sistemas de Informação na <abbr title="Universidade Federal Rural da Amazônia">UFRA</abbr>;
-- 📚 Estudando Java, MySQL, Python, e desenvolvimento **fullstack**;
+- 📚 Estudando Java, Python, PostgreSQL, e desenvolvimento **fullstack**;
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 <br>
 <br>
 
-Atualmente, venho me dedicando ao estudo de **Java** e **Python** com o objetivo de criar **jogos**. Tenho experiência em **desenvolvimento WEB**, atuando com **JavaScript** no front-end e **Python** no back-end. Além disso, estou explorando tecnologias como **Java**, **Python** e **MySQL**, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.
+Atualmente, venho me dedicando ao estudo de **Java** e **Python** com o objetivo de criar **jogos**. Tenho experiência em **desenvolvimento WEB**, atuando com **JavaScript** no front-end e **Python** no back-end. Além disso, estou explorando tecnologias como **Java** e **PostgreSQL**, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.
 Acredito que a melhor forma de aprender é colocando a mão na massa, por isso busco sempre transformar teoria em prática 🚀.
 
 <div align="left">
@@ -56,4 +56,4 @@ Organizo alguns dos meus estudos no seguinte repositório: [Estudos](https://git
 
 ### 👨‍💻 Linguagens de Pogramação e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,python,javascript,html,css,mysql,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,python,javascript,html,css,postgresql,mysql,flask)](https://skillicons.dev)
