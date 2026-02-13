@@ -14,7 +14,7 @@ Apaixonado por tecnologia. Meus estudos e experiências me permitiram desenvolve
 <br>
 <br>
 
-Atualmente, venho me dedicando ao estudo de **Java** e **Python** com o objetivo de criar **jogos**. Tenho experiência em **desenvolvimento WEB**, atuando com **JavaScript** no front-end e **Python** no back-end. Além disso, estou explorando tecnologias como **Java** e **PostgreSQL**, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.
+Atualmente, venho me dedicando ao estudo de **Java** com o objetivo de criar **websites**. Tenho experiência em **desenvolvimento WEB**, atuando com **JavaScript** no front-end e **Python** no back-end. Além disso, estou explorando tecnologias como **Java** e **PostgreSQL**, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.
 Acredito que a melhor forma de aprender é colocando a mão na massa, por isso busco sempre transformar teoria em prática 🚀.
 
 <div align="left">
